@@ -1,6 +1,6 @@
 ## Hi there 👋
 # Arthur Calliman Peraro
-![](https://tenor.com/pt-BR/view/dancing-midget-cowboy-sexy-pose-gif-12378920)
+![](https://media.tenor.com/_pUprB6UY-MAAAAM/dancing-midget.gif)
 
 <!--
 **professor-arthur/Professor-Arthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
